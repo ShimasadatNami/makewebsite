@@ -127,6 +127,6 @@
 	color:fff;
 	border:3px solid rgb(76, 166, 250);
 	border-radius:4px;
-	box-shadow: # 2f3c4a 2px 0px 2px 2px (rgb 0 15 2 3)
-    border: inset;
+	box-shadow: #2f3c4a 2px 0px 2px 2px (rgb 0 15 2 3)
+    border: rgb(76, 166, 250)inset;
    }
