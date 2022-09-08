@@ -1,0 +1,106 @@
+nav{
+    display: block;
+    background-color:#6df1eb;
+    padding:8px;
+    text-align: center;
+    font-size: 30px;
+    word-spacing: 100px;
+   }
+   
+   nav a{
+    color:rgb(2, 3, 59);
+    padding:12px;
+    text-decoration:none;
+    transition:0.3s;
+   }
+   
+   nav a:hover{
+    background-color:#de410f;
+   }
+   
+
+   .box-p {
+	background:#ed88f7;
+	color:fff;
+	border:10px double #fff;
+	border-radius:4px;
+	box-shadow: #2f3c4a 2px 0px 2px 2px (rgb 0 15 2 3)
+    border: inset;
+   }
+   
+   .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex: 200px;
+   }
+
+   .box-1 {
+    box-sizing: border-box;
+    width:300px;
+    height:450px;
+    background:#f3f56d;
+	color:fff;
+	border:50px solid #fff;
+	font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+   }
+   
+   .des {
+    width: 50%;
+   }
+
+   .box-1 a {
+    display: flexbox;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#0caa5b;
+   }
+
+   .box-2 {
+    box-sizing: border-box;
+    width:300px;
+    height:450px;
+    background:#9cff40;
+	color:fff;
+	border:50px solid #fff;
+	font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+   }
+   
+   .goal {
+    width: 50%;
+   }
+
+   .box-2 a {
+    display: flexbox;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#eef121;
+   }
+
+   .box-3 {
+    box-sizing: border-box;
+    width:300px;
+    height:450px;
+    background:#f5ab79;
+	color:fff;
+	border:50px solid #fff;
+	font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+   }
+   
+   .rule {
+    width: 50%;
+   }
+
+   .box-3 a {
+    display: flexbox;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:#ee3994;
+   }
